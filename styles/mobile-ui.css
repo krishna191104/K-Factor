@@ -1,0 +1,625 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 39.3rem;
+}.mobile-ui-SUh {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.mobile-ui-SUh .auto-group-7em7-BBP {
+  width: 39.4rem;
+  height: 187.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.mobile-ui-SUh .auto-group-7em7-BBP .home-page-banner-iSD {
+  box-sizing: border-box;
+  padding: 4.3rem 2.9rem 1.5rem 2.3rem;
+  width: 39.3rem;
+  height: 50.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #1a1a1d;
+}
+.mobile-ui-SUh .auto-group-7em7-BBP .home-page-banner-iSD .auto-group-562d-c1o {
+  margin-bottom: 5.8rem;
+  width: 100%;
+  height: 8.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mobile-ui-SUh .auto-group-7em7-BBP .home-page-banner-iSD .auto-group-562d-c1o .auto-group-vzth-jcD {
+  margin-right: 1.7rem;
+  width: 8.5rem;
+  height: 100%;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-1-B4M.png');
+  flex-shrink: 0;
+}
+.mobile-ui-SUh .auto-group-7em7-BBP .home-page-banner-iSD .auto-group-562d-c1o .auto-group-dmjf-D1b {
+  margin: 2rem 0;
+  box-sizing: border-box;
+  padding: 1.1rem 1.2rem;
+  height: calc(100% - 4rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.2rem #c3073f;
+  background-color: #1a1a1d;
+  flex-shrink: 0;
+}
+.mobile-ui-SUh .auto-group-7em7-BBP .home-page-banner-iSD .auto-group-562d-c1o .auto-group-dmjf-D1b .about-us-8PT {
+  margin-right: 2.1rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #ffffff;
+  font-family: Bebas Neue, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mobile-ui-SUh .auto-group-7em7-BBP .home-page-banner-iSD .auto-group-562d-c1o .auto-group-dmjf-D1b .our-services-e6u {
+  margin-right: 1.8rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #ffffff;
+  font-family: Bebas Neue, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mobile-ui-SUh .auto-group-7em7-BBP .home-page-banner-iSD .auto-group-562d-c1o .auto-group-dmjf-D1b .our-clients-Zjf {
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #ffffff;
+  font-family: Bebas Neue, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mobile-ui-SUh .auto-group-7em7-BBP .home-page-banner-iSD .k-factor-Ge5 {
+  margin: 0rem 0rem 1.4rem 0.7rem;
+  text-align: center;
+  font-size: 4.5rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #c3073f;
+  font-family: Krona One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mobile-ui-SUh .auto-group-7em7-BBP .home-page-banner-iSD .auto-group-a36h-a8y {
+  margin: 0rem 1.05rem 2.7rem 1.75rem;
+  width: calc(100% - 2.8rem);
+  height: 15.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.mobile-ui-SUh .auto-group-7em7-BBP .home-page-banner-iSD .auto-group-a36h-a8y .unlock-your-digital-potential-67K {
+  width: 21.9rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 4.65rem;
+  top: 0;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.mobile-ui-SUh .auto-group-7em7-BBP .home-page-banner-iSD .auto-group-a36h-a8y .accelerating-your-online-growth-and-maximizing-your-digital-success-with-tailored-strategies-expertise-and-a-passion-for-delivering-exceptional-results-zTb {
+  width: 31.3rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 0;
+  top: 7.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Open Sans Condensed, 'Source Sans Pro';
+}
+.mobile-ui-SUh .auto-group-7em7-BBP .home-page-banner-iSD .component-4-2QH {
+  margin: 0rem 9.2rem 0rem 9.9rem;
+  box-sizing: border-box;
+  padding: 1.3rem 1.9rem 0.4rem 1.5rem;
+  width: calc(100% - 19.1rem);
+  cursor: pointer;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #ffffff;
+  font-family: Bebas Neue, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #c3073f;
+  flex-shrink: 0;
+}
+.mobile-ui-SUh .auto-group-7em7-BBP .about-us--sQu {
+  width: 39.4rem;
+  height: 60.3rem;
+  position: absolute;
+  left: 0;
+  top: 50.5rem;
+}
+.mobile-ui-SUh .auto-group-7em7-BBP .about-us--sQu .rectangle-4-c7b {
+  width: 39.4rem;
+  height: 58.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #1a1a1d;
+}
+.mobile-ui-SUh .auto-group-7em7-BBP .about-us--sQu .data-analysis-9NR {
+  width: 27.2rem;
+  height: 24.6rem;
+  position: absolute;
+  left: 6rem;
+  top: 6.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobile-ui-SUh .auto-group-7em7-BBP .about-us--sQu .welcome-to-k-factor-marketing-agency-we-are-a-passionate-team-of-experts-dedicated-to-driving-your-businesss-digital-success-with-our-strategic-approach-expertise-in-the-latest-trends-and-data-driven-insights-we-deliver-customized-solutions-tailored-to-your-unique-needs-partner-with-us-to-unlock-your-brands-full-potential-today-spD {
+  width: 30.5rem;
+  height: 20.2rem;
+  position: absolute;
+  left: 4.4rem;
+  top: 40.1rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Open Sans Condensed, 'Source Sans Pro';
+}
+.mobile-ui-SUh .auto-group-7em7-BBP .about-us--sQu .about-us-36R {
+  width: 10.3rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 14.1rem;
+  top: 34.6rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #c3073f;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobile-ui-SUh .auto-group-7em7-BBP .our-services-wxV {
+  box-sizing: border-box;
+  padding: 4.9rem 6.3rem 5.4rem 6.2rem;
+  width: 39.4rem;
+  height: 78.5rem;
+  position: absolute;
+  left: 0;
+  top: 109.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #1a1a1d;
+}
+.mobile-ui-SUh .auto-group-7em7-BBP .our-services-wxV .our-services-qY5 {
+  margin: 0rem 0rem 5.9rem 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #c3073f;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mobile-ui-SUh .auto-group-7em7-BBP .our-services-wxV .auto-group-dppm-A4Z {
+  margin: 0rem 0.8rem 2rem 0.4rem;
+  width: calc(100% - 1.2rem);
+  height: 22.1rem;
+  flex-shrink: 0;
+}
+.mobile-ui-SUh .auto-group-7em7-BBP .our-services-wxV .auto-group-dppm-A4Z .young-woman-promoting-post-on-social-media-sjf {
+  width: 23.7rem;
+  height: 21.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobile-ui-SUh .auto-group-7em7-BBP .our-services-wxV .influencer-marketing-cSM {
+  margin: 0rem 0rem 3.9rem 3.1rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Open Sans Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mobile-ui-SUh .auto-group-7em7-BBP .our-services-wxV .auto-group-hkq1-vxq {
+  margin-bottom: 2rem;
+  width: 100%;
+  flex-shrink: 0;
+}
+.mobile-ui-SUh .auto-group-7em7-BBP .our-services-wxV .auto-group-hkq1-vxq .young-man-drawing-a-curve-in-design-program-tem {
+  width: 26.9rem;
+  height: 22.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobile-ui-SUh .auto-group-7em7-BBP .our-services-wxV .graphic-designing-bp5 {
+  margin-left: 2.9rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Open Sans Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mobile-ui-SUh .auto-group-ttpd-v5f {
+  width: 100%;
+  height: 132.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.mobile-ui-SUh .auto-group-ttpd-v5f .our-clients-4hf {
+  box-sizing: border-box;
+  padding: 1.5rem 2.9rem 11.5rem 2.4rem;
+  width: 39.3rem;
+  height: 58.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #1a1a1d;
+}
+.mobile-ui-SUh .auto-group-ttpd-v5f .our-clients-4hf .our-clients-Mwf {
+  margin: 0rem 0rem 2.1rem 0.5rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #c3073f;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mobile-ui-SUh .auto-group-ttpd-v5f .our-clients-4hf .mask-group-sv1 {
+  margin: 0rem 0rem 1.9rem 0.5rem;
+  width: 13.1rem;
+  height: 13.1rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mobile-ui-SUh .auto-group-ttpd-v5f .our-clients-4hf .i-am-extremely-impressed-with-k-factors-digital-marketing-services-their-tailored-strategies-have-significantly-boosted-our-online-presence-and-increased-our-conversions-the-teams-expertise-and-dedication-to-delivering-exceptional-results-have-made-them-an-invaluable-partner-for-our-channel-apR {
+  margin-bottom: 0.3rem;
+  max-width: 34rem;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Open Sans Condensed, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.mobile-ui-SUh .auto-group-ttpd-v5f .our-clients-4hf .auto-group-8mub-CL1 {
+  margin: 0rem 0.2rem 0rem 11.8rem;
+  width: calc(100% - 12rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.mobile-ui-SUh .auto-group-ttpd-v5f .our-clients-4hf .auto-group-8mub-CL1 .auto-group-rk5j-iJM {
+  margin-right: 1.1rem;
+  box-sizing: border-box;
+  padding-top: 8.9rem;
+  width: 11.1rem;
+  height: 11.1rem;
+  border-top: solid 0.1rem #c3073f;
+  flex-shrink: 0;
+}
+.mobile-ui-SUh .auto-group-ttpd-v5f .our-clients-4hf .auto-group-8mub-CL1 .auto-group-rk5j-iJM .slide-image-3bX {
+  width: 11rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.mobile-ui-SUh .auto-group-ttpd-v5f .our-clients-4hf .auto-group-8mub-CL1 .auto-group-rk5j-iJM .slide-image-3bX .ellipse-2-zFs {
+  margin-right: 0.7746rem;
+  width: 2.169rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mobile-ui-SUh .auto-group-ttpd-v5f .our-clients-4hf .auto-group-8mub-CL1 .auto-group-rk5j-iJM .slide-image-3bX .ellipse-3-Kow {
+  margin-right: 0.7747rem;
+  width: 2.169rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mobile-ui-SUh .auto-group-ttpd-v5f .our-clients-4hf .auto-group-8mub-CL1 .auto-group-rk5j-iJM .slide-image-3bX .ellipse-4-4Wd {
+  margin-right: 0.7746rem;
+  width: 2.169rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mobile-ui-SUh .auto-group-ttpd-v5f .our-clients-4hf .auto-group-8mub-CL1 .auto-group-rk5j-iJM .slide-image-3bX .ellipse-5-zQH {
+  width: 2.169rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mobile-ui-SUh .auto-group-ttpd-v5f .our-clients-4hf .auto-group-8mub-CL1 .apsar-jain-youtube-channel-professor-playz-7jo {
+  margin-bottom: 0.2rem;
+  max-width: 9.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2102272511;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.mobile-ui-SUh .auto-group-ttpd-v5f .our-clients-4hf .auto-group-8mub-CL1 .apsar-jain-youtube-channel-professor-playz-7jo .apsar-jain-youtube-channel-professor-playz-7jo-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.mobile-ui-SUh .auto-group-ttpd-v5f .our-clients-4hf .auto-group-8mub-CL1 .apsar-jain-youtube-channel-professor-playz-7jo .apsar-jain-youtube-channel-professor-playz-7jo-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Open Sans Condensed, 'Source Sans Pro';
+}
+.mobile-ui-SUh .auto-group-ttpd-v5f .footer-Fsw {
+  width: 39.3rem;
+  height: 79.4rem;
+  position: absolute;
+  left: 0;
+  top: 53.3rem;
+}
+.mobile-ui-SUh .auto-group-ttpd-v5f .footer-Fsw .auto-group-fwfx-zKj {
+  box-sizing: border-box;
+  padding: 3.9rem 3.3rem 11.7rem 3.3rem;
+  width: 39.3rem;
+  height: 77.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #1a1a1d;
+}
+.mobile-ui-SUh .auto-group-ttpd-v5f .footer-Fsw .auto-group-fwfx-zKj .unlock-your-digital-potential-with-k-factor-marketing-5ry {
+  margin-bottom: 13.4rem;
+  width: 100%;
+  max-width: 32.3rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.mobile-ui-SUh .auto-group-ttpd-v5f .footer-Fsw .auto-group-fwfx-zKj .social-media-AtR {
+  margin: 0rem 5.3rem 2.216rem 5.3rem;
+  width: calc(100% - 10.6rem);
+  height: 4.7838rem;
+  display: flex;
+  align-items: center;
+}
+.mobile-ui-SUh .auto-group-ttpd-v5f .footer-Fsw .auto-group-fwfx-zKj .social-media-AtR .instagram-h7f {
+  margin-right: 3.8406rem;
+  box-sizing: border-box;
+  padding: 0.472rem 0.539rem 0.539rem 0.472rem;
+  height: 100%;
+  background-color: #c3073f;
+  border-radius: 2.3919rem;
+  flex-shrink: 0;
+}
+.mobile-ui-SUh .auto-group-ttpd-v5f .footer-Fsw .auto-group-fwfx-zKj .social-media-AtR .instagram-h7f .instagram-Dbo {
+  width: 3.7732rem;
+  height: 3.7732rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobile-ui-SUh .auto-group-ttpd-v5f .footer-Fsw .auto-group-fwfx-zKj .social-media-AtR .gmail-LgR {
+  margin-right: 3.9079rem;
+  box-sizing: border-box;
+  padding: 0.472rem 0.472rem 0.539rem 0.539rem;
+  height: 100%;
+  background-color: #c3073f;
+  border-radius: 2.3919rem;
+  flex-shrink: 0;
+}
+.mobile-ui-SUh .auto-group-ttpd-v5f .footer-Fsw .auto-group-fwfx-zKj .social-media-AtR .gmail-LgR .gmail-logo-fih {
+  width: 3.7732rem;
+  height: 3.7732rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobile-ui-SUh .auto-group-ttpd-v5f .footer-Fsw .auto-group-fwfx-zKj .social-media-AtR .linkedin-11s {
+  box-sizing: border-box;
+  padding: 0.472rem 0.472rem 0.539rem 0.539rem;
+  height: 100%;
+  background-color: #c3073f;
+  border-radius: 2.3919rem;
+  flex-shrink: 0;
+}
+.mobile-ui-SUh .auto-group-ttpd-v5f .footer-Fsw .auto-group-fwfx-zKj .social-media-AtR .linkedin-11s .linkedin-wgD {
+  width: 3.7732rem;
+  height: 3.7732rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobile-ui-SUh .auto-group-ttpd-v5f .footer-Fsw .auto-group-fwfx-zKj .line-4-5Gd {
+  margin-bottom: 6.2rem;
+  width: 32.7rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mobile-ui-SUh .auto-group-ttpd-v5f .footer-Fsw .auto-group-fwfx-zKj .email-examplegmailcom-R5b {
+  margin-bottom: 1.2rem;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Open Sans Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobile-ui-SUh .auto-group-ttpd-v5f .footer-Fsw .auto-group-fwfx-zKj .auto-group-m2gy-uWZ {
+  margin-bottom: 2.1rem;
+  width: 14.6rem;
+  height: 9.7rem;
+  position: relative;
+}
+.mobile-ui-SUh .auto-group-ttpd-v5f .footer-Fsw .auto-group-fwfx-zKj .auto-group-m2gy-uWZ .home-36y {
+  width: 4rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 7.6rem;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Open Sans Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobile-ui-SUh .auto-group-ttpd-v5f .footer-Fsw .auto-group-fwfx-zKj .auto-group-m2gy-uWZ .sakthi-sai-ram-st-porur-chennai-tamil-nadu-600116-L65 {
+  width: 14.6rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Open Sans Condensed, 'Source Sans Pro';
+}
+.mobile-ui-SUh .auto-group-ttpd-v5f .footer-Fsw .auto-group-fwfx-zKj .about-us-pX3 {
+  margin-bottom: 2.1rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Open Sans Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobile-ui-SUh .auto-group-ttpd-v5f .footer-Fsw .auto-group-fwfx-zKj .our-services-kQh {
+  margin-bottom: 2.1rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Open Sans Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobile-ui-SUh .auto-group-ttpd-v5f .footer-Fsw .auto-group-fwfx-zKj .our-clients-gp9 {
+  margin-bottom: 2.1rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Open Sans Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobile-ui-SUh .auto-group-ttpd-v5f .footer-Fsw .auto-group-fwfx-zKj .contact-us-RFw {
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Open Sans Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mobile-ui-SUh .auto-group-ttpd-v5f .footer-Fsw .component-5-MQV {
+  box-sizing: border-box;
+  padding: 1rem 2.4rem 0.3rem 2.1rem;
+  width: 15rem;
+  height: 5.2rem;
+  cursor: pointer;
+  position: absolute;
+  left: 12.2rem;
+  top: 13.1rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #ffffff;
+  font-family: Bebas Neue, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #c3073f;
+}
+.mobile-ui-SUh .auto-group-ttpd-v5f .footer-Fsw .copyrights-DSh {
+  box-sizing: border-box;
+  padding: 0.3rem 8.6rem 0.3rem 10.7rem;
+  width: 39.3rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 0;
+  top: 77.5rem;
+  display: flex;
+  align-items: center;
+  background-color: #4e4e50;
+}
+.mobile-ui-SUh .auto-group-ttpd-v5f .footer-Fsw .copyrights-DSh .copyright-uqK {
+  margin: 0rem 0.1rem 0.1rem 0rem;
+  width: 1.2rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mobile-ui-SUh .auto-group-ttpd-v5f .footer-Fsw .copyrights-DSh .k-factor-marketing-2023-2uw {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Krona One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
